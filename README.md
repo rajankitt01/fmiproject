@@ -1,0 +1,2 @@
+The Farmer Merchant Integration (FMI) project is a web-based platform designed to bridge the gap between farmers and merchants by enabling direct communication and transactions. The system allows farmers to list their agricultural products, and merchants can browse, negotiate, and purchase them without intermediaries. It promotes transparency, fair pricing, and improved market access. 
+The application is built using Java and JSP for the backend, with HTML, CSS, Bootstrap, and JavaScript for a responsive frontend, and MySQL for managing product and user data efficiently.
